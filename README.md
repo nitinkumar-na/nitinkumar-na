@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitin Kumar @nitinkumar-na
 - 👀 I’m interested in 👨🏻‍💻
 - 🌱 I’m currently learning Go Lang
-- 💞️ I’m looking to collaborate on thing open-source
+- 💞️ I’m looking to collaborate on anything open-source
 - 📫 How to reach me here on GitHub
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Java and SpringBoot is ❤️ (turu lob)
